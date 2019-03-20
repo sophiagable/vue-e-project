@@ -1,6 +1,6 @@
 # vue-e-project
 
-> A Vue project for e-commerce
+> A Vue project for e-commerce (a template for vue+webpack+bs4)
 
 ## Build Setup
 
